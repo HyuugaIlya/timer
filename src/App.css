@@ -1,0 +1,13 @@
+.timer_wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  width: 100%;
+  justify-content: center;
+}
+
+.timer_item {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+}
